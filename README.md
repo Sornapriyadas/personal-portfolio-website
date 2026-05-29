@@ -8,7 +8,7 @@ This portfolio represents my work, technical skills, internship projects, and pa
 
 Add your deployed website link here:
 
-https://yourusername.github.io/portfolio-website/
+https://github.com/Sornapriyadas/personal-portfolio-website
 📌 Features
 Modern and Professional UI Design
 Fully Responsive Layout
